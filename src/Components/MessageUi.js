@@ -9,7 +9,11 @@ const MessageUi = () => {
             <NewConnections/>
             <MessagesList/>
             
-            
+            {/*  */}
+            {/*  */}
+            {/*  */}
+            {/*  */}
+            {/*  */}
         </div>
     );
 };
