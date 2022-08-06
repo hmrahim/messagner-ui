@@ -2,7 +2,7 @@ import React from "react";
 
 const MessageCard = ({data}) => {
   return (
-    <div className="flex justify-between gap-5">
+    <div className="flex justify-between gap-5 cursor-pointer">
       <div className="flex gap-3">
         <img src={data.image} width="60px" height="60px" alt="profile pic" />
         <div>
