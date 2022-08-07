@@ -4,9 +4,7 @@ import { user } from "../utility/user";
 const NewConnections = () => {
   return (
     <div className="w-full">
-        {/*  */}
-        {/*  */}
-        {/*  */}
+        
       <h3 className=" font-bold mt-5 ml-5">
         New Connectins{" "}
         <span className=" bg-orange-500 rounded-full px-2 py-0 text-white">

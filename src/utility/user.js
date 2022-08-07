@@ -8,51 +8,63 @@ import user7 from "../image/imoji(7).png"
 import user8 from "../image/imoji(8).png"
 import user9 from "../image/imoji(9).png"
 const user = [
+    
     {
         name:"rahim",
         image:user1,
         msg:"hello"
     },
     {
-        name:"Karim",
+        name:"rahim",
+        image:user1,
+        msg:"hello"
+    },
+    {
+        name:"karim",
         image:user2,
         msg:"How are you"
     },
     {
-        name:"Prapty",
+        name:"prapty",
         image:user3,
         msg:"Hello, how are you"
     },
     {
-        name:"Israt ",
+        name:"israt",
         image:user4,
         msg:"Hi, What r u doing"
     },
     {
-        name:"Tanvir ",
+        name:"israt",
+        image:user4,
+        msg:"Hi, What r u doing"
+    },
+    {
+        name:"tanvir",
         image:user5,
         msg:"kire beta ki krs"
     },
     {
-        name:"Jinok ",
+        name:"jinok",
         image:user6,
         msg:"Hello Rahim, Ki khabor"
     },
     {
-        name:"Sunny ",
+        name:"babo",
         image:user7,
         msg:"Hello vai , kmn asen"
     },
     {
-        name:"Sunny ",
+        name:"babo",
         image:user7,
         msg:"Hello vai , kmn asen"
     },
     {
-        name:"Sunny ",
+        name:"babo",
         image:user7,
         msg:"Hello vai , kmn asen"
     },
+    
 ]
 
 export {user}
